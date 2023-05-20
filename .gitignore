@@ -1,0 +1,5 @@
+terraform.tfstate.backup
+credenciais.txt
+.terraform.lock.hcl
+.vscode/
+.terraform/
