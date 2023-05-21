@@ -1,24 +1,13 @@
-variable "prefix" {
- 
-}
+variable "prefix" {}
 
-variable "cluster_name" {
-  
-}
+variable "vpc_cidr_block" {}
 
-variable "retation_days" {
-  
-}
+variable "cluster_name" {}
 
-variable "desired_size" {
-  
-}
+variable "retation_days" {}
 
-variable "max_size" {
-     
-}
+variable "desired_size" {}
 
-variable "min_size" {
-     
-}
+variable "max_size" {}
 
+variable "min_size" {}
